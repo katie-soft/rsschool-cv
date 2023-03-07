@@ -1,8 +1,6 @@
 # Ekaterina Miagkaia
 ## Frontend-developer
 
-****
-
 ### Contacts
 * Telegram: @katie_soft
 * email: e.miagkaia@gmail.com
@@ -28,8 +26,7 @@
 
 ### Experience
 
-2022-2023 Major oil&gas company
-**Frontend developer**
+2022-2023 Major oil & gas company, **Frontend developer**
 
 2022-2023 **Freelance projects**
 
