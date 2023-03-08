@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://katie-soft.github.io/rsschool-cv/cv
+https://katie-soft.github.io/rsschool-cv/
